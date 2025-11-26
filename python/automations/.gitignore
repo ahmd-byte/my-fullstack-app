@@ -1,0 +1,17 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/
